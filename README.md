@@ -1,1 +1,1 @@
-# first-web-ctf
+# web-ctf-challenges
