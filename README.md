@@ -1,1 +1,1 @@
-# web-ctf-challenges
+# web-challenges
